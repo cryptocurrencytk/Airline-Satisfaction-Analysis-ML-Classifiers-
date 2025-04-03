@@ -22,8 +22,8 @@ Each method is thoroughly assessed to determine its effectiveness in evaluating 
 - `README.md` - Project documentation
 - `air_test.csv` - Test dataset
 - `air_train.csv` - Training dataset
-- `Completed Group Codes.Rmd` - R Markdown file with the analysis
-- `Completed-Group-Codes.pdf` - Report summarizing the analysis
+- `Completed Codes.Rmd` - R Markdown file with the analysis
+- `Predictive Analytics and Key Determinants of Airline Satisfaction in R.pdf` - Report summarizing the analysis
 - `lasso_output.xlsx` - Results from LASSO Regression
 - `ridge_output.xlsx` - Results from RIDGE Regression
 
