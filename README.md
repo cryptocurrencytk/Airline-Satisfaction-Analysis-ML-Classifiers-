@@ -1,4 +1,4 @@
-# Airline Passenger Satisfaction Analysis
+# Airline Satisfaction Analysis
 
 ## Overview
 This project explores the key factors that influence passenger satisfaction in the airline industry. While many assume that travel experience alone dictates customer ratings, this study investigates potential hidden elements that also impact evaluations. By understanding these factors, airlines can enhance their services and refine their strategic improvements to maintain competitiveness.
